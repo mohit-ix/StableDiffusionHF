@@ -122,8 +122,10 @@ celerybeat.pid
 # Environments
 .env
 .diffusion
+.dataset
 env/
 diffusion/
+dataset/
 ENV/
 env.bak/
 diffusion.bak/
