@@ -123,9 +123,13 @@ celerybeat.pid
 .env
 .diffusion
 .dataset
+.my_pipeline
+.my-finetuned-model
 env/
 diffusion/
 dataset/
+my_pipeline/
+my-finetuned-model/
 ENV/
 env.bak/
 diffusion.bak/
