@@ -5,3 +5,5 @@ diffusers
 datasets
 transformers
 accelerate
+wandb
+open-clip-torch
