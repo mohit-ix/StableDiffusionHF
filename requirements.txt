@@ -7,3 +7,4 @@ transformers
 accelerate
 wandb
 open-clip-torch
+gradio
